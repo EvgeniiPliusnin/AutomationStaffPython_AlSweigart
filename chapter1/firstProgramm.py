@@ -2,7 +2,7 @@
 
 print('hello, world')
 print('what is your name ?')    # request for take name
-myName = input()E
+myName = input()
 print('Nice to meet you, ' + myName)
 print('length of your name is: ')
 print(len(myName), 'letters')
